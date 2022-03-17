@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoVitorHz/bbd76d9d7839acaf2e648ee4947ad0d6/raw/0663f4ce2cd9dc7dcac6642139993b308a85843b/githubcard.svg"/>
-<h1 align="left">Oi querida <img src="https://raw.githubusercontent.com/gist/JoaoVitorHz/bbd76d9d7839acaf2e648ee4947ad0d6/raw/0663f4ce2cd9dc7dcac6642139993b308a85843b/githubcard.svg" width="30px">, sou Mayk Brito</h1 >
+<h1 align="left">Eai pessoal<img src="https://raw.githubusercontent.com/gist/JoaoVitorHz/bbd76d9d7839acaf2e648ee4947ad0d6/raw/0663f4ce2cd9dc7dcac6642139993b308a85843b/githubcard.svg" width="30px">, Eu sou João Vitor</h1 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Visualizações do perfil" /> </p>
 
 - 🔥 Desenvolvedor Web Sênior e Instrutor focado em ajudar pessoas a começar a programar
