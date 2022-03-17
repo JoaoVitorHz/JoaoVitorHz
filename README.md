@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoVitorHz/bbd76d9d7839acaf2e648ee4947ad0d6/raw/0663f4ce2cd9dc7dcac6642139993b308a85843b/githubcard.svg"/>
 <h1 align="left">Oi querida <img src="https://raw.githubusercontent.com/gist/JoaoVitorHz/bbd76d9d7839acaf2e648ee4947ad0d6/raw/0663f4ce2cd9dc7dcac6642139993b308a85843b/githubcard.svg" width="30px">, sou Mayk Brito</h1 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Visualizações do perfil" /> </p>
 
