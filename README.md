@@ -5,14 +5,16 @@
 
 - 🔭 Atualmente estou fazendo projetos e estudando algumas tecnlogias 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [ maykbrito.dev ](https://maykbrito.dev)
+- 🔎 Em busca do primeiro emprego na area de programação 
+<!-- 👨‍💻 Todos os meus projetos estão disponíveis em [ maykbrito.dev ](https://maykbrito.dev) -->
 
 - 💬 Pergunte-me sobre **HTML, CSS, Javascript, PHP** 
 <br><br>
 ##  🛠   Pilha de tecnologia
-![ JavaScript ](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
 ![ HTML ](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
 ![ CSS ](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
+![ JavaScript ](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![ PHP ](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=)  
 ![ Reagir ](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
 ![ Git ](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ![ GitHub ](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
