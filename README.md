@@ -3,7 +3,7 @@
 
 - 🔥Desenvolvedor Web Fullstack, buscando melhorar no cenario da programação.
 
-- 🔭 Atualmente estou fazendo projetos e estudando algumas tecnlogias 
+- 🔭 Atualmente estou fazendo projetos e estudando algumas tecnologias 
 
 - 🔎 Em busca do primeiro emprego na area de programação 
 <!-- 👨‍💻 Todos os meus projetos estão disponíveis em [ maykbrito.dev ](https://maykbrito.dev) -->
