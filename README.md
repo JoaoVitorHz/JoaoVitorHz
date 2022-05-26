@@ -1,4 +1,3 @@
-<img align="right" height="590em" 
 <h1 align="left">Eai pessoal<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou João Vitor</h1 >
 
 - 🔥Desenvolvedor Web Fullstack, buscando melhorar no cenario da programação.
