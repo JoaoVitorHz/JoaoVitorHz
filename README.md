@@ -1,13 +1,15 @@
 <h1 align="left">Eai pessoal<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou João Vitor</h1 >
 
-- 🔥Desenvolvedor Web Fullstack, buscando melhorar no cenario da programação.
+- 🥅 Objetivo 2022: Entrar no mercado de trabalho como um programador PHP
 
-- 🔭 Atualmente estou fazendo projetos e estudando algumas tecnologias 
+- 🌱 Eu estou atualmente estudando PHP
 
 - 🔎 Em busca do primeiro emprego na area de programação 
-<!-- 👨‍💻 Todos os meus projetos estão disponíveis em [ maykbrito.dev ](https://maykbrito.dev) -->
 
-- 💬 Pergunte-me sobre **HTML, CSS, Javascript, PHP** 
+- ⚡ Fatos Legais: eu gosto de praticar calistenia e jogar jogos como: CS:GO, Dead By Daylight e Apex Legends
+
+- 💬 Gosto bastante de apreender e compartilhar conhecimentos
+
 <br><br>
 ##  🛠   Pilha de tecnologia
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -24,9 +26,6 @@
 <br>
 <br>
 
+## 💻 Estaticas GitHub
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorHz&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorHz&show_icons=true&theme=radical&title_color=fff&text_color=FFF)
