@@ -11,13 +11,11 @@
 - 💬 Pergunte-me sobre **HTML, CSS, Javascript, PHP** 
 <br><br>
 ##  🛠   Pilha de tecnologia
-![ HTML ](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
-![ CSS ](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
-![ JavaScript ](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![ PHP ](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=)  
-![ Reagir ](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![ Git ](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![ GitHub ](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![ Código do Visual Studio ](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-<br><br>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
