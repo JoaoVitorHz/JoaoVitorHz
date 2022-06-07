@@ -1,4 +1,4 @@
-<h1 align="left">Eai pessoal<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou João Vitor</h1 >
+<h1 align="left">Eai pessoal, 👋 Eu sou João Vitor</h1 >
 
 - 🥅 Objetivo 2022: Entrar no mercado de trabalho como um programador PHP
 
