@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitorhz&show_icons=true&locale=en&layout=compact" alt="joaovitorhz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitorhz&show_icons=true&locale=en" alt="joaovitorhz" /></p>
+<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=joaovitorhz&show_icons=true&locale=en" alt="joaovitorhz" /></p>
