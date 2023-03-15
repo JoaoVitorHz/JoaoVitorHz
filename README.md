@@ -85,7 +85,7 @@ Sou um Programador FullStack com mais de 4 anos de experiência. Atualmente trab
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhz" alt="joaovitorhz" height="200"  />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhz" alt="joaovitorhz" height="220"  />
 </p>
 
-<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=joaovitorhz&show_icons=true&locale=en" alt="joaovitorhz" height="200" /></p>
+<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=joaovitorhz&show_icons=true&locale=en" alt="joaovitorhz" height="220" /></p>
