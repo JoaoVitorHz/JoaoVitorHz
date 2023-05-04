@@ -1,6 +1,6 @@
 # 😎 João Vitor
 
-**`Programador (Desenvolvedor/Programador/Web)`**
+**`Desenvolvedor Full-Stack (Front-end, Back-end)`**
 
 Olá me chamo João Vitor, sou um Programador FullStack com mais de 4 anos de experiência. Inicie minha carreira no desenvolvimento em 2019, desde então venho ganhando cada vez mais conhecimento no desenvolvimento Web e Mobile. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
 
