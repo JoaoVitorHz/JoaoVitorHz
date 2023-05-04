@@ -2,7 +2,7 @@
 
 **`Programador (Desenvolvedor/Programador/Web)`**
 
-Sou um Programador FullStack com mais de 4 anos de experiência. Atualmente trabalho para uma empresa que atua em mais de 10 países na América do Sul e Europa. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
+Olá me chamo João Vitor, sou um Programador FullStack com mais de 4 anos de experiência. Inicie minha carreira no desenvolvimento em 2019, desde então venho ganhando cada vez mais conhecimento no desenvolvimento Web e Mobile. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
 
 
 <p align="left">
