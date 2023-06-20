@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack (Front-end, Back-end)`**
 
-Olá me chamo João Vitor, sou um Programador FullStack com mais de 4 anos de experiência. Inicie minha carreira no desenvolvimento em 2019, desde então venho ganhando cada vez mais conhecimento no desenvolvimento Web e Mobile. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
+Olá me chamo João Vitor, sou um Desenvolvedor Full-Stack com 4 anos de experiência. Iniciei minha carreira no desenvolvimento em 2019, desde então venho ganhando cada vez mais conhecimento no Desenvolvimento Web. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
 
 
 <p align="left">
