@@ -4,9 +4,9 @@
 
 Profissional de TI com 4 anos de experiência no desenvolvimento de sistemas para diversos nichos industriais. Possuo sólido conhecimento em tecnologias como NextJs, React, Typescript, PHP, Laravel e MySQL, entre outras, além de expertise em Estrutura de Dados, Design Patterns, Clean Code, Clean Architecture e System Design. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
     
-![Static Badge](https://img.shields.io/badge/Portfolio-brightgreen?style=flat-square&logo=airplayvideo&logoColor=%23FFF&labelColor=%23&color=%238b008b&link=https%3A%2F%2Fstatuesque-crepe-cd6310.netlify.app%2F)
-![Static Badge](https://img.shields.io/badge/Jo%C3%A3o%20Vitor%20Araujo%20-brightgreen?style=flat-square&logo=linkedin&logoColor=%23FFF&labelColor=%23&color=%238b008b&link=https%3A%2F%2Flinkedin.com%2Fin%2Fjoao-vitor-araujo-96a78522b%2F)
-![Static Badge](https://img.shields.io/badge/vitorjoao39207%40gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=%23FFF&labelColor=%23&color=%238b008b)
+[![Static Badge](https://img.shields.io/badge/Portfolio%20-brightgreen?style=flat-square&logo=airplayvideo&logoColor=%23FFF&labelColor=%23&color=%238b008b)](https://statuesque-crepe-cd6310.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Jo%C3%A3o%20Vitor%20Araujo%20-brightgreen?style=flat-square&logo=linkedin&logoColor=%23FFF&labelColor=%23&color=%238b008b)](https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-96a78522b/)
+[![Static Badge](https://img.shields.io/badge/vitorjoao39207%40gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=%23FFF&labelColor=%23&color=%238b008b)](mailto:vitorjoao39207@gmail.com)
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 <p align="left"> 
