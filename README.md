@@ -1,26 +1,14 @@
-# 😎 João Vitor
+# João Vitor
 
-**`Desenvolvedor Full-Stack (Front-end, Back-end)`**
+**`Senior Software Engineer (Web e Mobile)`**
 
-Olá me chamo João Vitor, sou um Desenvolvedor Full-Stack com 4 anos de experiência. Iniciei minha carreira no desenvolvimento em 2019, desde então venho ganhando cada vez mais conhecimento no Desenvolvimento Web. Estou sempre concentrado na Experiência do Usuário e Performance para atingir altos níveis de qualidade.
+Profissional de TI com 4 anos de experiência no desenvolvimento de sistemas para diversos nichos industriais. Possuo sólido conhecimento em tecnologias como NextJs, React, Typescript, PHP, Laravel e MySQL, entre outras, além de expertise em Estrutura de Dados, Design Patterns, Clean Code, Clean Architecture e System Design. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+    
+![Static Badge](https://img.shields.io/badge/Portfolio-brightgreen?style=flat-square&logo=airplayvideo&logoColor=%23FFF&labelColor=%23&color=%238b008b&link=https%3A%2F%2Fstatuesque-crepe-cd6310.netlify.app%2F)
+![Static Badge](https://img.shields.io/badge/Jo%C3%A3o%20Vitor%20Araujo%20-brightgreen?style=flat-square&logo=linkedin&logoColor=%23FFF&labelColor=%23&color=%238b008b&link=https%3A%2F%2Flinkedin.com%2Fin%2Fjoao-vitor-araujo-96a78522b%2F)
+![Static Badge](https://img.shields.io/badge/vitorjoao39207%40gmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=%23FFF&labelColor=%23&color=%238b008b)
 
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-96a78522b/" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
-    <a href="https://statuesque-crepe-cd6310.netlify.app/" target="blank">
-        <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a> 
-    <a href="https://github.com/JoaoVitorHz" target="blank">
-        <img alt="GitHub" title="GitGub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://drive.google.com/file/d/14iCIU_BDLz0g6Q3UhISXCik1vJ68YD1j/view?usp=share_link" target="blank">
-        <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Curriculo-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000"/>
-    </a>
-</p>
-
-<h3 align="left">Linguagens, Frameworks e Ferramentas:</h3>
+<h3 align="left">Tecnologias e Ferramentas</h3>
 <p align="left"> 
     <!-- HTML -->
     <a  target="_blank" rel="noreferrer"> 
@@ -84,8 +72,3 @@ Olá me chamo João Vitor, sou um Desenvolvedor Full-Stack com 4 anos de experi�
     </a> 
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhz" alt="joaovitorhz" height="220"  />
-</p>
-
-<p>&nbsp;<img align="auto" src="https://github-readme-stats.vercel.app/api?username=joaovitorhz&show_icons=true&locale=en" alt="joaovitorhz" height="220" /></p>
