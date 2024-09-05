@@ -1,8 +1,8 @@
 # João Vitor
 
-**`Senior Software Engineer (Web e Mobile)`**
+**`Senior Software Engineer (Web and Mobile)`**
 
-Profissional de TI com 4 anos de experiência no desenvolvimento de sistemas para diversos nichos industriais. Possuo sólido conhecimento em tecnologias como NextJs, React, Typescript, PHP, Laravel e MySQL, entre outras, além de expertise em Estrutura de Dados, Design Patterns, Clean Code, Clean Architecture e System Design. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+IT professional with 4 years of experience in system development for various industrial sectors. I have solid knowledge in technologies such as NextJs, React, Typescript, PHP, Laravel, and MySQL, among others, along with expertise in Data Structures, Design Patterns, Clean Code, Clean Architecture, and System Design. I am currently studying Systems Analysis and Development.
     
 [![Static Badge](https://img.shields.io/badge/Portfolio%20-brightgreen?style=flat-square&logo=airplayvideo&logoColor=%23FFF&labelColor=%23&color=%23460170)](https://joaovitorhz.netlify.app/)
 [![Static Badge](https://img.shields.io/badge/Jo%C3%A3o%20Vitor%20Araujo%20-brightgreen?style=flat-square&logo=linkedin&logoColor=%23FFF&labelColor=%23&color=%23460170)](https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-96a78522b/)
