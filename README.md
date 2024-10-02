@@ -2,7 +2,7 @@
 
 **`Senior Software Engineer (Web and Mobile)`**
 
-IT professional with 4 years of experience in system development for various industrial sectors. I have solid knowledge in technologies such as NextJs, React, Typescript, PHP, Laravel, and MySQL, among others, along with expertise in Data Structures, Design Patterns, Clean Code, Clean Architecture, and System Design. I am currently studying Systems Analysis and Development.
+Developer with 4 years of experience in developing systems for various industrial sectors. I have solid knowledge in technologies such as NextJs, React, Typescript, PHP, Laravel, and MySQL, among others, as well as expertise in Data Structures, Design Patterns, Clean Code, Clean Architecture, and System Design. I am currently studying Systems Analysis and Development.
     
 [![Static Badge](https://img.shields.io/badge/Portfolio%20-brightgreen?style=flat-square&logo=airplayvideo&logoColor=%23FFF&labelColor=%23&color=%23460170)](https://joaovitorhz.netlify.app/)
 [![Static Badge](https://img.shields.io/badge/Jo%C3%A3o%20Vitor%20Araujo%20-brightgreen?style=flat-square&logo=linkedin&logoColor=%23FFF&labelColor=%23&color=%23460170)](https://www.linkedin.com/in/jo%C3%A3o-vitor-araujo-96a78522b/)
